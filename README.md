@@ -4,4 +4,4 @@ CBF data used in the simulation analyses that appear in manuscript “Ensemble c
 
 Also included is script for taking the benchmark CBF data and generating the trajectory data subject to missingness at random (MAR); these data
 are used in the simulations to compare cluster performance of two different inter-trajectory distance metrics (Frechet and DTW); script encodes the
-mechanism of generating missing data
+mechanism of generating missing data used in simulations.
